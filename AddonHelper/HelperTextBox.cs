@@ -7,7 +7,6 @@ namespace AddOns.Library.Helper
 {
     public class HelperTextBox : HelperControl
     {
-
         public string GetTextValue(SAPbouiCOM.Form oForm, string uniqId) //textbox ın değerini alır
         {
             string val = "";
